@@ -23,4 +23,4 @@ jobs:
           # FIXME Is there anything else that needs to be installed?
       - name: Test with pytest
         run: |
-          pytest
+          pytest  
